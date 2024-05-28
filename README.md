@@ -3,5 +3,6 @@ Unique Data science Projects using cutting edge machine learning models. Dataset
 Datasets used:
 
 1) Heart Failure Prediction Project: https://www.kaggle.com/fedesoriano/heart-failure-prediction
+2) Body Fat Prediction Project: https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset/data
 
 Happy learning !!
