@@ -7,5 +7,6 @@ Datasets used:
 3) Stellar Classification Project: https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17
 4) Wind Speed Prediction Dataset: https://www.kaggle.com/datasets/fedesoriano/wind-speed-prediction-dataset/data
 5) SMS Spam Detection Project: https://www.kaggle.com/datasets/mfaisalqureshi/spam-email/data
+6) Lung Cancer Prediction Project: https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link/data
 
 Happy learning !!
